@@ -1,0 +1,5 @@
+/home/x4nyx/OC/LABS/lab_2/cmake-build-debug/CMakeFiles/Number.dir
+/home/x4nyx/OC/LABS/lab_2/cmake-build-debug/CMakeFiles/Vector.dir
+/home/x4nyx/OC/LABS/lab_2/cmake-build-debug/CMakeFiles/lab_2.dir
+/home/x4nyx/OC/LABS/lab_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/x4nyx/OC/LABS/lab_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

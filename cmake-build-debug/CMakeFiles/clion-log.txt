@@ -1,0 +1,10 @@
+/home/x4nyx/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4167.25/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/x4nyx/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4167.25/bin/ninja/linux/ninja -G Ninja -S /home/x4nyx/OC/LABS/lab_2 -B /home/x4nyx/OC/LABS/lab_2/cmake-build-debug
+-- Performing Test COMPILER_HAS_HIDDEN_VISIBILITY
+-- Performing Test COMPILER_HAS_HIDDEN_VISIBILITY - Success
+-- Performing Test COMPILER_HAS_HIDDEN_INLINE_VISIBILITY
+-- Performing Test COMPILER_HAS_HIDDEN_INLINE_VISIBILITY - Success
+-- Performing Test COMPILER_HAS_DEPRECATED_ATTR
+-- Performing Test COMPILER_HAS_DEPRECATED_ATTR - Success
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/x4nyx/OC/LABS/lab_2/cmake-build-debug

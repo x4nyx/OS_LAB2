@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lab_2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Number::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Number-Debug-22aa0c15c1729accce47.json",
+					"name" : "Number",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Vector::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Vector-Debug-e25a2f200349e8967d9f.json",
+					"name" : "Vector",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab_2-Debug-5bfe65619d8fab803f22.json",
+					"name" : "lab_2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/x4nyx/OC/LABS/lab_2/cmake-build-debug",
+		"source" : "/home/x4nyx/OC/LABS/lab_2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
